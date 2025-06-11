@@ -58,22 +58,20 @@ A feature-rich, responsive Todo application built with React and Material-UI, of
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
+git clone git@github.com:mesubash/todo-react.git
+cd todo-react
 ```
 
 2. Install dependencies:
 ```bash
 npm install
-# or
-yarn install
+
 ```
 
 3. Start the development server:
 ```bash
 npm run dev
-# or
-yarn dev
+
 ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
@@ -165,9 +163,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
